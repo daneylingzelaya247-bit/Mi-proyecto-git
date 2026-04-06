@@ -1,8 +1,9 @@
 Algoritmo: Datos personales
-
-1. Inicio
-2. Escribir nombre: Daneyling Zelaya
-3. Escribir carrera: Ingeniería en Sistemas
-4. Escribir edad: 16
-5. Escribir fecha: 06/03/2026
-6. Fin
+ Inicio
+ Escribir nombre: Daneyling Zelaya
+ Escribir carrera: Ingeniería en Sistemas
+ Escribir edad: 16
+ Escribir fecha: 06/03/2026
+Hobby: Escuchar música
+Meta profesional: Ser ingeniera en sistemas
+ Fin
